@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.651bd02f.css",
+    "main.js": "/static/js/main.674d9175.js",
+    "static/media/LagosNg.jpg": "/static/media/LagosNg.ad60ef2cb7268871450b.jpg",
+    "static/media/pageimage.png": "/static/media/pageimage.2a25e67f1ac6a859f6d4.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.9b00ca5f293b988de6a2.png",
+    "static/media/idea.png": "/static/media/idea.69d8a7d905bd4c337471.png",
+    "static/media/brand-6.png": "/static/media/brand-6.4099632a72bc0e334e17.png",
+    "static/media/brand-7.png": "/static/media/brand-7.e28a34aa111c751af96c.png",
+    "static/media/design.png": "/static/media/design.2c4ac0f59f17c37a57c3.png",
+    "static/media/domain.png": "/static/media/domain.a7c5ad1082e1c95dddaa.png",
+    "static/media/brand-3.png": "/static/media/brand-3.bdb5bd1ea19b44540305.png",
+    "static/media/brand-2.png": "/static/media/brand-2.09dc3fc6c99c89652741.png",
+    "static/media/copywriting.png": "/static/media/copywriting.e3c547a34dad9e3ab890.png",
+    "static/media/search.png": "/static/media/search.a2240bc651d58eb3e867.png",
+    "static/media/brand-1.png": "/static/media/brand-1.292f5c508bf5fad2da14.png",
+    "static/media/figma.png": "/static/media/figma.215c038b2432cb8b2d4a.png",
+    "static/media/js.png": "/static/media/js.e9d170f029643ca8763d.png",
+    "static/media/css.png": "/static/media/css.7654ce00c5ac2e76e015.png",
+    "static/media/html.png": "/static/media/html.31497a13d5b51cea9b7d.png",
+    "index.html": "/index.html",
+    "main.651bd02f.css.map": "/static/css/main.651bd02f.css.map",
+    "main.674d9175.js.map": "/static/js/main.674d9175.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651bd02f.css",
+    "static/js/main.674d9175.js"
+  ]
+}
